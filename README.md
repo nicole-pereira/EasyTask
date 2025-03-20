@@ -1,4 +1,13 @@
-# Essentials
+# EasyTask
+EasyTask é um aplicativo simples para o gerenciamento de tarefas, construído com Angular. Ele permite adicionar, visualizar e concluir tarefas, com os dados sendo armazenados localmente no navegador, garantindo que as informações sejam preservadas após o recarregamento da página.
+
+## Funcionalidades
+- Adicionar Tarefas: Os usuários podem adicionar novas tarefas com título, resumo e data de vencimento;
+- Marcar Tarefas como Concluídas: Permite que o usuário marque tarefas como concluídas;
+- Persistência de Dados: Utiliza o localStorage para armazenar as tarefas e garantir que os dados sejam preservados entre os recarregamentos da página;
+- Interface Intuitiva: Foco em uma experiência de usuário simples e funcional.
+
+## Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
